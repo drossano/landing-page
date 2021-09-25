@@ -16,15 +16,27 @@ ul {
     gap: 20px;
 }
 
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-text {
+    width: 500px;
+}
+
 .hero h1 {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+    margin: 0 0 10px 0;
 }
 
 .hero p {
    font-size: 18px;
    color: #E5E7EB; 
+   margin: 0 0 10px 0;
 }
 
 .logo {
@@ -48,5 +60,5 @@ button{
 }
 
 img {
-    height: 250px;
+    width: 500px;
 }
