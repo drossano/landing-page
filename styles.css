@@ -1,9 +1,14 @@
 body {
     font-family: Roboto;
+    margin: 0;
 }
 
 .header {
     background-color: #1F2937;
+}
+
+ul {
+    margin: 0;
 }
 
 .hero h1 {
