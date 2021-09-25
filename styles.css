@@ -5,3 +5,9 @@ body {
 .header {
     background-color: #1F2937;
 }
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
