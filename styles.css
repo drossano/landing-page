@@ -5,6 +5,7 @@ body {
 
 .header {
     background-color: #1F2937;
+    padding: 0 50px 50px 50px;
 }
 
 ul {
@@ -14,12 +15,14 @@ ul {
     list-style-type: none;
     padding: 0;
     gap: 20px;
+    padding-top: 25px;
 }
 
 .hero {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 100px 0 50px 0;
 }
 
 .hero-text {
