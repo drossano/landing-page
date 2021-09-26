@@ -97,17 +97,22 @@ button{
     color: #1F2937;
     background-color: #E5E7EB;
     height: 550px;
-    padding: 0 250px;
+    padding: 0 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .quote-text {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
+    margin: 0;
 }
 
 .quote-author {
     font-size: 30px;
     font-weight: bolder;
     text-align: end;
+    margin: 0;
 }
