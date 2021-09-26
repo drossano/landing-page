@@ -119,10 +119,19 @@ button {
 
 .cta {
     height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .cta-container {
     background-color: #3882F6;
+    margin: 0 50px;
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    padding: 50px 0;
+    border-radius: 5px;
 }
 
 .cta-text {
@@ -131,10 +140,12 @@ button {
 
 .cta-text h1 {
     font-size: 24px;
+    margin: 0;
 }
 
 .cta-text p {
     font-size: 18px;
+    margin: 0;
 }
 
 .cta button{
