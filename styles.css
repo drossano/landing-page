@@ -55,7 +55,7 @@ ul {
     color: #E5E7EB; 
 }
 
-button{
+button {
     background-color: #3882F6;
     font-size: 18px;
     color: #E5E7EB;
@@ -115,4 +115,28 @@ button{
     font-weight: bolder;
     text-align: end;
     margin: 0;
+}
+
+.cta {
+    height: 550px;
+}
+
+.cta-container {
+    background-color: #3882F6;
+}
+
+.cta-text {
+    color: #F9FAF8;
+}
+
+.cta-text h1 {
+    font-size: 24px;
+}
+
+.cta-text p {
+    font-size: 18px;
+}
+
+.cta button{
+    border: 2px white solid;
 }
